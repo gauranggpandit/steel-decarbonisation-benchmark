@@ -1,0 +1,16 @@
+company,field,value,unit,year,page,quote,model,prompt
+SSAB,crude_steel_production,7536.0,thousand tonnes,2025,53.0,"Crude steel production 7,536",gemini-3.6-flash,v2
+SSAB,scope1_emissions,9839.0,Thousand tonnes CO2e,2025,84.0,"Scope 1 greenhouse gas emissions 9,839",gemini-3.6-flash,v2
+SSAB,scope2_emissions,896.0,Thousand tonnes CO2e,2025,84.0,"Scope 2 greenhouse gas emissions, market-based method 896",gemini-3.6-flash,v2
+SSAB,co2_intensity,,,,,,gemini-3.6-flash,v2
+SSAB,steelmaking_capacity,8.8,million tonnes,2025,7.0,total annual crude steel production capacity of 8.8 million tonnes,gemini-3.6-flash,v2
+thyssenkrupp,crude_steel_production,9.3,million tons,2024 / 2025,52.0,"Crude steel production, including deliveries to Hüttenwerke Krupp Mannesmann, came to 9.3 million tons",gemini-3.6-flash,v2
+thyssenkrupp,scope1_emissions,19.8,Mt CO2e,2024 / 2025,123.0,Gross Scope 1 GHG emissions 24.2 19.8,gemini-3.6-flash,v2
+thyssenkrupp,scope2_emissions,1.2,Mt CO2e,2024 / 2025,123.0,Gross market-based Scope 2 GHG emissions 1.1 1.2,gemini-3.6-flash,v2
+thyssenkrupp,co2_intensity,,,,,,gemini-3.6-flash,v2
+thyssenkrupp,steelmaking_capacity,,,,,,gemini-3.6-flash,v2
+Nucor,crude_steel_production,21000000.0,Metric Tons Cast,2024,3.0,"Raw Steel Production Metric Tons Cast (million t) 21,000,000",gemini-3.6-flash,v2
+Nucor,scope1_emissions,,,,,,gemini-3.6-flash,v2
+Nucor,scope2_emissions,,,,,,gemini-3.6-flash,v2
+Nucor,co2_intensity,,,,,,gemini-3.6-flash,v2
+Nucor,steelmaking_capacity,,,,,,gemini-3.6-flash,v2

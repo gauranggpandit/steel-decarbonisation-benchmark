@@ -1,0 +1,16 @@
+company,field,value,unit,year,page,quote,model,prompt
+SSAB,crude_steel_production,7536.0,thousand tonnes,2025,187.0,"Crude steel production, thousand tonnes 7,536",gemini-3.6-flash,v1
+SSAB,scope1_emissions,9839.0,Thousand tonnes CO2e,2025,85.0,"Total Scope 1 greenhouse gas emissions 9,839",gemini-3.6-flash,v1
+SSAB,scope2_emissions,896.0,Thousand tonnes CO2e,2025,85.0,"Total Scope 2 greenhouse gas emissions, market-based method 896",gemini-3.6-flash,v1
+SSAB,co2_intensity,,,,,,gemini-3.6-flash,v1
+SSAB,steelmaking_capacity,,,,,,gemini-3.6-flash,v1
+thyssenkrupp,crude_steel_production,,,,,,gemini-3.6-flash,v1
+thyssenkrupp,scope1_emissions,,,,,,gemini-3.6-flash,v1
+thyssenkrupp,scope2_emissions,,,,,,gemini-3.6-flash,v1
+thyssenkrupp,co2_intensity,,,,,,gemini-3.6-flash,v1
+thyssenkrupp,steelmaking_capacity,,,,,,gemini-3.6-flash,v1
+Nucor,crude_steel_production,21000000.0,Metric Tons Cast,2024,3.0,"Metric Tons Cast (million t) 21,000,000",gemini-3.6-flash,v1
+Nucor,scope1_emissions,4300000.0,,2024,3.0,"Scope 1 Greenhouse Gas Emissions 4,300,000",gemini-3.6-flash,v1
+Nucor,scope2_emissions,,,,,,gemini-3.6-flash,v1
+Nucor,co2_intensity,,,,,,gemini-3.6-flash,v1
+Nucor,steelmaking_capacity,,,,,,gemini-3.6-flash,v1

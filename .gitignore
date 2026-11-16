@@ -5,3 +5,4 @@ __pycache__/
 .DS_Store
 data/raw/Global-Energy-Ownership-Tracker*.xlsx
 .virtual_documents/
+data/reports/
