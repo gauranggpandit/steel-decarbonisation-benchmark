@@ -1,0 +1,7 @@
+,v1,v2
+fields,15,15
+correct values,5,8
+correctly null,6,6
+errors,4,1
+accuracy %,73,93
+values found (recall) %,56,89
