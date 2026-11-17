@@ -1,0 +1,26 @@
+company,field,value,unit,year,page,quote,model,prompt
+Salzgitter,crude_steel_production,5880.0,kt,2025,8.0,"Crude steel production kt 5,880",gemini-3.7-flash,v2
+Salzgitter,scope1_emissions,9364.0,kt CO2e,2025,4.0,"Gross Scope 1 GHG emissions kt CO2e 9,364",gemini-3.7-flash,v2
+Salzgitter,scope2_emissions,131.0,kt CO2e,2025,4.0,Gross market-based Scope 2 GHG emissions kt CO2e 131,gemini-3.7-flash,v2
+Salzgitter,co2_intensity,,,,,,gemini-3.7-flash,v2
+Salzgitter,steelmaking_capacity,,,,,,gemini-3.7-flash,v2
+Tata Steel,crude_steel_production,,,,,,gemini-3.7-flash,v2
+Tata Steel,scope1_emissions,78.0,million tCO2e,FY2025-26,3.0,Tata Steel Consolidated (including other entities) Absolute emissions - Scope 1 MT 78,gemini-3.7-flash,v2
+Tata Steel,scope2_emissions,6.0,million tCO2e,FY2025-26,3.0,Tata Steel Consolidated (including other entities) Absolute emissions - Scope 2 MT 6,gemini-3.7-flash,v2
+Tata Steel,co2_intensity,2.22,tCO2/tcs,FY2025-26,2.0,Tata Steel Consolidated tCO2/tcs 2.19 2.21 2.23 2.22 2.22,gemini-3.7-flash,v2
+Tata Steel,steelmaking_capacity,,,,,,gemini-3.7-flash,v2
+voestalpine,crude_steel_production,,,,,,gemini-3.7-flash,v2
+voestalpine,scope1_emissions,12.6,million t CO2e,2025/26,198.0,Gross Scope 1 GHG emissions (million t CO2e) 12.8 12.1 12.6,gemini-3.7-flash,v2
+voestalpine,scope2_emissions,0.55,million t CO2e,2025/26,198.0,Gross market-based Scope 2 GHG emissions (million t CO2e) 1.1 0.781 0.55,gemini-3.7-flash,v2
+voestalpine,co2_intensity,,,,,,gemini-3.7-flash,v2
+voestalpine,steelmaking_capacity,,,,,,gemini-3.7-flash,v2
+ArcelorMittal,crude_steel_production,55.6,Mt,2025,50.0,Crude steel production (footnote 1) Mt 58.1 57.9 55.6,gemini-3.7-flash,v2
+ArcelorMittal,scope1_emissions,,,,,,gemini-3.7-flash,v2
+ArcelorMittal,scope2_emissions,,,,,,gemini-3.7-flash,v2
+ArcelorMittal,co2_intensity,1.79,tCO2e/tCS,2025,24.0,contributing to a group carbon intensity in 2025 of 1.79 tCO2e/tCS.,gemini-3.7-flash,v2
+ArcelorMittal,steelmaking_capacity,,,,,,gemini-3.7-flash,v2
+POSCO,crude_steel_production,35048.0,"1,000 tons",2024,157.0,"Crude steel production 1,000 tons 34,219 35,682 35,048",gemini-3.7-flash,v2
+POSCO,scope1_emissions,69665353.0,tCO2e,2024,158.0,"Direct emissions (Scope 1) tCO2e 68,305,993 70,588,012 69,665,353",gemini-3.7-flash,v2
+POSCO,scope2_emissions,1399825.0,tCO2e,2024,158.0,"Indirect emissions (Scope 2) tCO2e 1,879,630 1,383,895 1,399,825",gemini-3.7-flash,v2
+POSCO,co2_intensity,2.03,tCO2e/ton,2024,158.0,"GHG emissions intensity per crude steel production, Scope 1&2 tCO2e/ton 2.05 2.02 2.03",gemini-3.7-flash,v2
+POSCO,steelmaking_capacity,,,,,,gemini-3.7-flash,v2

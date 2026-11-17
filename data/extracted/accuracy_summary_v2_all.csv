@@ -1,0 +1,7 @@
+,v2 batch 1 (tuned on),v2 batch 2 (unseen),v2 all 8
+fields,15,25,40
+correct,8,14,22
+correctly null,6,9,15
+errors,1,2,3
+accuracy %,93,92,92
+recall %,89,88,88
