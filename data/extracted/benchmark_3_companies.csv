@@ -1,0 +1,4 @@
+company,crude_mt,scope1_mt,scope2_mt,year,note,intensity_t_per_t,intensity_basis,gist_capacity_mtpa,eaf_share,eaf_share_pct,utilisation_pct
+SSAB,7.536,9.839,0.896,2025,kt in report,1.4244957537154992,Scope 1+2,8.863,0.2778968746474106,28.0,85.0
+thyssenkrupp,9.3,19.8,1.2,2024/25,group-wide Scope 1+2; crude steel incl. deliveries to HKM,2.258064516129032,Scope 1+2,11.3175,0.019218025182239893,2.0,82.0
+Nucor,21.0,4.3,,2024,SASB index; Scope 1 unit not printed (assumed t CO2e); no Scope 2 disclosed,0.20476190476190476,Scope 1 only,26.767739999999996,1.0,100.0,78.0
